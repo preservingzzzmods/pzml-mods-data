@@ -1,6 +1,6 @@
 {
-  "version": "v2026.01.24.1532",
-  "generated": "2026-01-24T14:32:00.019Z",
+  "version": "v2026.01.25.0150",
+  "generated": "2026-01-25T00:50:31.150Z",
   "modCount": 1847,
   "data": [
     {
@@ -28,7 +28,7 @@
       "fileType": "rar"
     },
     {
-      "id": "mod-1769263982860-1436",
+      "id": "mod-1769265119132-1436",
       "name": "Alice Bottom Heavy Clothing Break",
       "character": "Alice",
       "image": "./launcher-mods/[NSFW!] Alice Bottom Heavy Clothing Break/preview.jpg",
@@ -37,8 +37,8 @@
       "hasUrl": true,
       "downloadUrl": "https://gamebanana.com/dl/645529",
       "backupDownloadUrl": "",
-      "fileType": "zip",
-      "linkScanSkipped": false
+      "fileType": "",
+      "linkScanSkipped": true
     },
     {
       "id": "mod-1769263529389-3",
@@ -925,7 +925,7 @@
       "fileType": "zip"
     },
     {
-      "id": "mod-1769263987516-1448",
+      "id": "mod-1769265119160-1448",
       "name": "Anby The Cunning Hare",
       "character": "Anby",
       "image": "./launcher-mods/[NSFW!] Anby The Cunning Hare/preview.jpg",
@@ -1553,7 +1553,7 @@
       "fileType": "zip"
     },
     {
-      "id": "mod-1769263988985-1458",
+      "id": "mod-1769265119182-1458",
       "name": "Astra Mix",
       "character": "Astra Yao",
       "image": "./launcher-mods/[NSFW!] Astra Mix/preview.jpg",
@@ -2314,7 +2314,7 @@
       "fileType": "zip"
     },
     {
-      "id": "mod-1769264003539-1472",
+      "id": "mod-1769265119208-1472",
       "name": "Belle Bottom Heavy",
       "character": "Belle",
       "image": "./launcher-mods/[NSFW!] Belle Bottom Heavy/preview.jpg",
@@ -2401,7 +2401,7 @@
       "linkScanSkipped": false
     },
     {
-      "id": "mod-1769264003543-1474",
+      "id": "mod-1769265119212-1474",
       "name": "Belle Delicate Sunlight",
       "character": "Belle",
       "image": "./launcher-mods/[NSFW!] Belle Delicate Sunlight/preview.jpg",
@@ -2830,7 +2830,7 @@
       "fileType": "zip"
     },
     {
-      "id": "mod-1769264013291-1485",
+      "id": "mod-1769265119235-1485",
       "name": "Belle TSNL",
       "character": "Belle",
       "image": "./launcher-mods/[NSFW!] Belle TSNL/preview.png",
@@ -3181,7 +3181,7 @@
       "fileType": "zip"
     },
     {
-      "id": "mod-1769264013295-1487",
+      "id": "mod-1769265119240-1487",
       "name": "Burnice Dva",
       "character": "Burnice",
       "image": "./launcher-mods/[NSFW!] Burnice Dva/preview.jpg",
@@ -3424,7 +3424,7 @@
       "fileType": "zip"
     },
     {
-      "id": "mod-1769264013304-1491",
+      "id": "mod-1769265119249-1491",
       "name": "Burnice Outfit Toggles",
       "character": "Burnice",
       "image": "./launcher-mods/[NSFW!] Burnice Outfit Toggles/preview.jpg",
@@ -4233,7 +4233,7 @@
       "fileType": "zip"
     },
     {
-      "id": "mod-1769264014710-1497",
+      "id": "mod-1769265119260-1497",
       "name": "Dialyn Bottom Heavy",
       "character": "Dialyn",
       "image": "./launcher-mods/[NSFW!] Dialyn Bottom Heavy/preview.jpg",
@@ -4534,7 +4534,7 @@
       "fileType": "zip"
     },
     {
-      "id": "mod-1769264033647-1518",
+      "id": "mod-1769265119298-1518",
       "name": "Dialyn Pure Light Devout Prayer",
       "character": "Dialyn",
       "image": "./launcher-mods/[NSFW!] Dialyn Pure Light Devout Prayer/preview.jpg",
@@ -4661,7 +4661,7 @@
       "linkScanSkipped": false
     },
     {
-      "id": "mod-1769264036898-1522",
+      "id": "mod-1769265119305-1522",
       "name": "Dialyn White Dress",
       "character": "Dialyn",
       "image": "./launcher-mods/[NSFW!] Dialyn White Dress/preview.jpg",
@@ -4857,7 +4857,7 @@
       "fileType": "zip"
     },
     {
-      "id": "mod-1769264036900-1523",
+      "id": "mod-1769265119307-1523",
       "name": "Ellen Bottom Heavy",
       "character": "Ellen",
       "image": "./launcher-mods/[NSFW!] Ellen Bottom Heavy/preview.jpg",
@@ -5138,7 +5138,7 @@
       "fileType": "zip"
     },
     {
-      "id": "mod-1769264039289-1527",
+      "id": "mod-1769265119315-1527",
       "name": "Ellen Icy Shark",
       "character": "Ellen",
       "image": "./launcher-mods/[NSFW!] Ellen Icy Shark/preview.jpg",
@@ -5151,7 +5151,7 @@
       "linkScanSkipped": true
     },
     {
-      "id": "mod-1769264039292-1528",
+      "id": "mod-1769265119317-1528",
       "name": "Ellen Icy Shark Normal Eyes",
       "character": "Ellen",
       "image": "./launcher-mods/[NSFW!] Ellen Icy Shark Normal Eyes/preview.jpg",
@@ -5938,7 +5938,7 @@
       "fileType": "zip"
     },
     {
-      "id": "mod-1769264056926-1557",
+      "id": "mod-1769265119376-1557",
       "name": "Grace Bikini",
       "character": "Grace",
       "image": "./launcher-mods/[NSFW!] Grace Bikini/preview.jpg",
@@ -6072,10 +6072,10 @@
       "fileType": "zip"
     },
     {
-      "id": "mod-1769264056933-1560",
+      "id": "mod-1769265119382-1560",
       "name": "Grace New Eridu Dailies",
       "character": "Grace",
-      "image": "./launcher-mods/Grace New Eridu Dailies/preview.jpg",
+      "image": "https://raw.githubusercontent.com/preservingzzzmods/pzml-mods-data/main/launcher-mods/Grace%20New%20Eridu%20Dailies/preview.jpg",
       "url": "https://gamebanana.com/mods/640959",
       "nsfw": false,
       "hasUrl": true,
@@ -6571,7 +6571,7 @@
       "fileType": "zip"
     },
     {
-      "id": "mod-1769264059182-1565",
+      "id": "mod-1769265119391-1565",
       "name": "Jane Bunny Girl",
       "character": "Jane Doe",
       "image": "./launcher-mods/[NSFW!] Jane Bunny Girl/preview.jpg",
@@ -6584,10 +6584,10 @@
       "linkScanSkipped": true
     },
     {
-      "id": "mod-1769264059184-1566",
+      "id": "mod-1769265119393-1566",
       "name": "Jane Bunny Suit",
       "character": "Jane Doe",
-      "image": "./launcher-mods/Jane Bunny Suit/preview.jpg",
+      "image": "https://raw.githubusercontent.com/preservingzzzmods/pzml-mods-data/main/launcher-mods/Jane%20Bunny%20Suit/preview.jpg",
       "url": "https://gamebanana.com/mods/557470",
       "nsfw": false,
       "hasUrl": true,
@@ -7037,7 +7037,7 @@
       "fileType": ""
     },
     {
-      "id": "mod-1769264073131-1589",
+      "id": "mod-1769265119438-1589",
       "name": "Jane Santa Rat",
       "character": "Jane Doe",
       "image": "./launcher-mods/[NSFW!] Jane Santa Rat/preview.jpg",
@@ -7305,7 +7305,7 @@
       "linkScanSkipped": false
     },
     {
-      "id": "mod-1769264073133-1590",
+      "id": "mod-1769265119440-1590",
       "name": "Jane Undercover R&B",
       "character": "Jane Doe",
       "image": "./launcher-mods/[NSFW!] Jane Undercover R&B/preview.jpg",
@@ -7549,7 +7549,7 @@
       "fileType": "zip"
     },
     {
-      "id": "mod-1769264075357-1595",
+      "id": "mod-1769265119450-1595",
       "name": "Ju Fufu Michele",
       "character": "Ju Fufu",
       "image": "./launcher-mods/[NSFW!] Ju Fufu Michele/preview.jpg",
@@ -7558,8 +7558,8 @@
       "hasUrl": true,
       "downloadUrl": "https://gamebanana.com/dl/602920",
       "backupDownloadUrl": "",
-      "fileType": "zip",
-      "linkScanSkipped": false
+      "fileType": "",
+      "linkScanSkipped": true
     },
     {
       "id": "mod-1767610518643-2n44y1e8s",
@@ -8266,7 +8266,7 @@
       "fileType": "zip"
     },
     {
-      "id": "mod-1769264080756-1602",
+      "id": "mod-1769265119462-1602",
       "name": "Lucia Bottom Heavy Clothing Break",
       "character": "Lucia",
       "image": "./launcher-mods/[NSFW!] Lucia Bottom Heavy Clothing Break/preview.jpg",
@@ -8275,8 +8275,8 @@
       "hasUrl": true,
       "downloadUrl": "https://gamebanana.com/dl/646955",
       "backupDownloadUrl": "",
-      "fileType": "zip",
-      "linkScanSkipped": false
+      "fileType": "",
+      "linkScanSkipped": true
     },
     {
       "id": "mod-1767610518646-iy8sbrd3m",
@@ -8339,7 +8339,7 @@
       "fileType": "zip"
     },
     {
-      "id": "mod-1769264080757-1603",
+      "id": "mod-1769265119463-1603",
       "name": "Lucia Gale Ryuu",
       "character": "Lucia",
       "image": "./launcher-mods/[NSFW!] Lucia Gale Ryuu/preview.jpg",
@@ -8402,7 +8402,7 @@
       "linkScanSkipped": false
     },
     {
-      "id": "mod-1769264080761-1605",
+      "id": "mod-1769265119467-1605",
       "name": "Lucia Kiana Lime Soda",
       "character": "Lucia",
       "image": "./launcher-mods/[NSFW!] Lucia Kiana Lime Soda/preview.jpg",
@@ -8440,7 +8440,7 @@
       "linkScanSkipped": false
     },
     {
-      "id": "mod-1769264080767-1608",
+      "id": "mod-1769265119474-1608",
       "name": "Lucia Mix",
       "character": "Lucia",
       "image": "./launcher-mods/[NSFW!] Lucia Mix/preview.jpg",
@@ -9188,7 +9188,7 @@
       "fileType": "zip"
     },
     {
-      "id": "mod-1769264084827-1621",
+      "id": "mod-1769265119500-1621",
       "name": "Miyabi Bottom Heavy 1",
       "character": "Miyabi",
       "image": "./launcher-mods/[NSFW!] Miyabi Bottom Heavy 1/preview.jpg",
@@ -9201,7 +9201,7 @@
       "linkScanSkipped": true
     },
     {
-      "id": "mod-1769264084830-1622",
+      "id": "mod-1769265119502-1622",
       "name": "Miyabi Bottom Heavy 2",
       "character": "Miyabi",
       "image": "./launcher-mods/[NSFW!] Miyabi Bottom Heavy 2/preview.jpg",
@@ -9274,7 +9274,7 @@
       "fileType": "zip"
     },
     {
-      "id": "mod-1769264084843-1627",
+      "id": "mod-1769265119513-1627",
       "name": "Miyabi Cyber Outfit",
       "character": "Miyabi",
       "image": "./launcher-mods/[NSFW!] Miyabi Cyber Outfit/preview.jpg",
@@ -9384,7 +9384,7 @@
       "linkScanSkipped": false
     },
     {
-      "id": "mod-1769264084851-1630",
+      "id": "mod-1769265119519-1630",
       "name": "Miyabi Elegant Gown",
       "character": "Miyabi",
       "image": "./launcher-mods/[NSFW!] Miyabi Elegant Gown/preview.jpg",
@@ -9698,7 +9698,7 @@
       "fileType": "zip"
     },
     {
-      "id": "mod-1769264087028-1636",
+      "id": "mod-1769265119532-1636",
       "name": "Miyabi Mix",
       "character": "Miyabi",
       "image": "./launcher-mods/[NSFW!] Miyabi Mix/preview.jpg",
@@ -10341,7 +10341,7 @@
       "fileType": "zip"
     },
     {
-      "id": "mod-1769264089265-1641",
+      "id": "mod-1769265119541-1641",
       "name": "Miyabi Volatile Priestess",
       "character": "Miyabi",
       "image": "./launcher-mods/[NSFW!] Miyabi Volatile Priestess/preview.jpg",
@@ -11102,7 +11102,7 @@
       "fileType": "zip"
     },
     {
-      "id": "mod-1769264093721-1650",
+      "id": "mod-1769265119560-1650",
       "name": "Orphie Bottom Heavy",
       "character": "Orphie & Magus",
       "image": "./launcher-mods/[NSFW!] Orphie Bottom Heavy/preview.jpg",
@@ -11151,7 +11151,7 @@
       "fileType": "zip"
     },
     {
-      "id": "mod-1769264093723-1651",
+      "id": "mod-1769265119563-1651",
       "name": "Orphie Delta",
       "character": "Orphie & Magus",
       "image": "./launcher-mods/[NSFW!] Orphie Delta/preview.jpg",
@@ -12619,7 +12619,7 @@
       "fileType": "zip"
     },
     {
-      "id": "mod-1769264111151-1688",
+      "id": "mod-1769265119640-1688",
       "name": "Seed Illya",
       "character": "Seed",
       "image": "./launcher-mods/[NSFW!] Seed Illya/preview.jpg",
@@ -12705,7 +12705,7 @@
       "fileType": "zip"
     },
     {
-      "id": "mod-1769264113392-1693",
+      "id": "mod-1769265119649-1693",
       "name": "Seed Special Halloween",
       "character": "Seed",
       "image": "./launcher-mods/[NSFW!] Seed Special Halloween/preview.jpg",
@@ -12718,7 +12718,7 @@
       "linkScanSkipped": true
     },
     {
-      "id": "mod-1769264113394-1694",
+      "id": "mod-1769265119650-1694",
       "name": "Seed Splash Sketch",
       "character": "Seed",
       "image": "./launcher-mods/[NSFW!] Seed Splash Sketch/preview.jpg",
@@ -13791,7 +13791,7 @@
       "fileType": "zip"
     },
     {
-      "id": "mod-1769264128911-1716",
+      "id": "mod-1769265119690-1716",
       "name": "Trigger Bottom Heavy Pink",
       "character": "Trigger",
       "image": "./launcher-mods/[NSFW!] Trigger Bottom Heavy Pink/preview.jpg",
@@ -13804,7 +13804,7 @@
       "linkScanSkipped": true
     },
     {
-      "id": "mod-1769264128917-1718",
+      "id": "mod-1769265119694-1718",
       "name": "Trigger Camo",
       "character": "Trigger",
       "image": "./launcher-mods/[NSFW!] Trigger Camo/preview.jpg",
@@ -14009,7 +14009,7 @@
       "fileType": "zip"
     },
     {
-      "id": "mod-1769264132474-1729",
+      "id": "mod-1769265119716-1729",
       "name": "Vivian Bottom Heavy",
       "character": "Vivian",
       "image": "./launcher-mods/[NSFW!] Vivian Bottom Heavy/preview.jpg",
@@ -14022,7 +14022,7 @@
       "linkScanSkipped": true
     },
     {
-      "id": "mod-1769264132476-1730",
+      "id": "mod-1769265119718-1730",
       "name": "Vivian Bottom Heavy Summer Skin",
       "character": "Vivian",
       "image": "./launcher-mods/[NSFW!] Vivian Bottom Heavy Summer Skin/preview.jpg",
@@ -14302,7 +14302,7 @@
       "fileType": "zip"
     },
     {
-      "id": "mod-1769264137290-1737",
+      "id": "mod-1769265119732-1737",
       "name": "Vivian Succubus Princess",
       "character": "Vivian",
       "image": "./launcher-mods/[NSFW!] Vivian Succubus Princess/preview.jpg",
@@ -14351,7 +14351,7 @@
       "fileType": "zip"
     },
     {
-      "id": "mod-1769264137299-1740",
+      "id": "mod-1769265119738-1740",
       "name": "Vivian Victorian Style",
       "character": "Vivian",
       "image": "./launcher-mods/[NSFW!] Vivian Victorian Style/preview.jpg",
@@ -14660,7 +14660,7 @@
       "fileType": "zip"
     },
     {
-      "id": "mod-1769264137306-1742",
+      "id": "mod-1769265119743-1742",
       "name": "Yanagi Black Silky Cat Girl",
       "character": "Yanagi",
       "image": "./launcher-mods/[NSFW!] Yanagi Black Silky Cat Girl/preview.jpg",
@@ -14709,7 +14709,7 @@
       "fileType": ""
     },
     {
-      "id": "mod-1769264137320-1746",
+      "id": "mod-1769265119753-1746",
       "name": "Yanagi Ghostly Awakening",
       "character": "Yanagi",
       "image": "./launcher-mods/[NSFW!] Yanagi Ghostly Awakening/preview.jpg",
@@ -15980,7 +15980,7 @@
       "fileType": "zip"
     },
     {
-      "id": "mod-1769264195206-1810",
+      "id": "mod-1769265119867-1810",
       "name": "Yidhari Stardepth Overture",
       "character": "Yidhari",
       "image": "./launcher-mods/[NSFW!] Yidhari Stardepth Overture/preview.jpg",
@@ -16319,7 +16319,7 @@
       "fileType": "zip"
     },
     {
-      "id": "mod-1769264197741-1819",
+      "id": "mod-1769265119885-1819",
       "name": "Yixuan Kunoichi",
       "character": "Yixuan",
       "image": "./launcher-mods/[NSFW!] Yixuan Kunoichi/preview.jpg",
@@ -16598,7 +16598,7 @@
       "fileType": "zip"
     },
     {
-      "id": "mod-1769264199922-1825",
+      "id": "mod-1769265119897-1825",
       "name": "Yuzuha Bottom Heavy",
       "character": "Yuzuha",
       "image": "./launcher-mods/[NSFW!] Yuzuha Bottom Heavy/preview.jpg",
@@ -16648,7 +16648,7 @@
       "linkScanSkipped": false
     },
     {
-      "id": "mod-1769264199924-1826",
+      "id": "mod-1769265119900-1826",
       "name": "Yuzuha Daylight Skin Bottom Heavy",
       "character": "Yuzuha",
       "image": "./launcher-mods/[NSFW!] Yuzuha Daylight Skin Bottom Heavy/preview.jpg",
@@ -16746,7 +16746,7 @@
       "fileType": "zip"
     },
     {
-      "id": "mod-1769264201747-1829",
+      "id": "mod-1769265119906-1829",
       "name": "Yuzuha Mix",
       "character": "Yuzuha",
       "image": "./launcher-mods/[NSFW!] Yuzuha Mix/preview.jpg",
@@ -16819,7 +16819,7 @@
       "fileType": "zip"
     },
     {
-      "id": "mod-1769264201749-1830",
+      "id": "mod-1769265119907-1830",
       "name": "Yuzuha Sinister Sister",
       "character": "Yuzuha",
       "image": "./launcher-mods/[NSFW!] Yuzuha Sinister Sister/preview.jpg",
@@ -17205,7 +17205,7 @@
       "fileType": "zip"
     },
     {
-      "id": "mod-1769264206639-1834",
+      "id": "mod-1769265119915-1834",
       "name": "Zhu Yuan BH Textures",
       "character": "Zhu Yuan",
       "image": "./launcher-mods/[NSFW!] Zhu Yuan BH Textures/preview.jpg",
@@ -17218,7 +17218,7 @@
       "linkScanSkipped": true
     },
     {
-      "id": "mod-1769264206641-1835",
+      "id": "mod-1769265119917-1835",
       "name": "Zhu Yuan BH Textures Less Saturated",
       "character": "Zhu Yuan",
       "image": "./launcher-mods/[NSFW!] Zhu Yuan BH Textures Less Saturated/preview.jpg",
@@ -17519,7 +17519,7 @@
       "fileType": "zip"
     },
     {
-      "id": "mod-1769264208145-1846",
+      "id": "mod-1769265119947-1846",
       "name": "Zhu Yuan Thick",
       "character": "Zhu Yuan",
       "image": "./launcher-mods/[NSFW!] Zhu Yuan Thick/preview.jpg",
@@ -17532,10 +17532,10 @@
       "linkScanSkipped": true
     },
     {
-      "id": "mod-1769265119132-1436",
+      "id": "mod-1769302219829-1436",
       "name": "Alice Bottom Heavy Clothing Break",
       "character": "Alice",
-      "image": "./launcher-mods/[NSFW!] Alice Bottom Heavy Clothing Break/preview.jpg",
+      "image": "https://raw.githubusercontent.com/preservingzzzmods/pzml-mods-data/main/launcher-mods/%5BNSFW!%5D%20Alice%20Bottom%20Heavy%20Clothing%20Break/preview.jpg",
       "url": "https://gamebanana.com/mods/645529",
       "nsfw": true,
       "hasUrl": true,
@@ -17679,10 +17679,10 @@
       "linkScanSkipped": false
     },
     {
-      "id": "mod-1769265119160-1448",
+      "id": "mod-1769302220109-1448",
       "name": "Anby The Cunning Hare",
       "character": "Anby",
-      "image": "./launcher-mods/[NSFW!] Anby The Cunning Hare/preview.jpg",
+      "image": "https://raw.githubusercontent.com/preservingzzzmods/pzml-mods-data/main/launcher-mods/%5BNSFW!%5D%20Anby%20The%20Cunning%20Hare/preview.jpg",
       "url": "https://gamebanana.com/mods/601957",
       "nsfw": true,
       "hasUrl": true,
@@ -17801,10 +17801,10 @@
       "fileType": "zip"
     },
     {
-      "id": "mod-1769265119182-1458",
+      "id": "mod-1769302220409-1458",
       "name": "Astra Mix",
       "character": "Astra Yao",
-      "image": "./launcher-mods/[NSFW!] Astra Mix/preview.jpg",
+      "image": "https://raw.githubusercontent.com/preservingzzzmods/pzml-mods-data/main/launcher-mods/%5BNSFW!%5D%20Astra%20Mix/preview.jpg",
       "url": "https://gamebanana.com/mods/639574",
       "nsfw": true,
       "hasUrl": true,
@@ -17977,10 +17977,10 @@
       "fileType": "zip"
     },
     {
-      "id": "mod-1769265119208-1472",
+      "id": "mod-1769302220809-1472",
       "name": "Belle Bottom Heavy",
       "character": "Belle",
-      "image": "./launcher-mods/[NSFW!] Belle Bottom Heavy/preview.jpg",
+      "image": "https://raw.githubusercontent.com/preservingzzzmods/pzml-mods-data/main/launcher-mods/%5BNSFW!%5D%20Belle%20Bottom%20Heavy/preview.jpg",
       "url": "https://gamebanana.com/mods/570980",
       "nsfw": true,
       "hasUrl": true,
@@ -18002,10 +18002,10 @@
       "fileType": "zip"
     },
     {
-      "id": "mod-1769265119212-1474",
+      "id": "mod-1769302220880-1474",
       "name": "Belle Delicate Sunlight",
       "character": "Belle",
-      "image": "./launcher-mods/[NSFW!] Belle Delicate Sunlight/preview.jpg",
+      "image": "https://raw.githubusercontent.com/preservingzzzmods/pzml-mods-data/main/launcher-mods/%5BNSFW!%5D%20Belle%20Delicate%20Sunlight/preview.jpg",
       "url": "https://gamebanana.com/mods/605293",
       "nsfw": true,
       "hasUrl": true,
@@ -18140,10 +18140,10 @@
       "fileType": "zip"
     },
     {
-      "id": "mod-1769265119235-1485",
+      "id": "mod-1769302221185-1485",
       "name": "Belle TSNL",
       "character": "Belle",
-      "image": "./launcher-mods/[NSFW!] Belle TSNL/preview.png",
+      "image": "https://raw.githubusercontent.com/preservingzzzmods/pzml-mods-data/main/launcher-mods/%5BNSFW!%5D%20Belle%20TSNL/preview.png",
       "url": "#",
       "nsfw": true,
       "hasUrl": false,
@@ -18165,10 +18165,10 @@
       "fileType": "zip"
     },
     {
-      "id": "mod-1769265119240-1487",
+      "id": "mod-1769302221232-1487",
       "name": "Burnice Dva",
       "character": "Burnice",
-      "image": "./launcher-mods/[NSFW!] Burnice Dva/preview.jpg",
+      "image": "https://raw.githubusercontent.com/preservingzzzmods/pzml-mods-data/main/launcher-mods/%5BNSFW!%5D%20Burnice%20Dva/preview.jpg",
       "url": "https://gamebanana.com/mods/581698",
       "nsfw": true,
       "hasUrl": true,
@@ -18214,10 +18214,10 @@
       "fileType": "zip"
     },
     {
-      "id": "mod-1769265119249-1491",
+      "id": "mod-1769302221338-1491",
       "name": "Burnice Outfit Toggles",
       "character": "Burnice",
-      "image": "./launcher-mods/[NSFW!] Burnice Outfit Toggles/preview.jpg",
+      "image": "https://raw.githubusercontent.com/preservingzzzmods/pzml-mods-data/main/launcher-mods/%5BNSFW!%5D%20Burnice%20Outfit%20Toggles/preview.jpg",
       "url": "https://gamebanana.com/mods/550177",
       "nsfw": true,
       "hasUrl": true,
@@ -18288,10 +18288,10 @@
       "fileType": "zip"
     },
     {
-      "id": "mod-1769265119260-1497",
+      "id": "mod-1769302221478-1497",
       "name": "Dialyn Bottom Heavy",
       "character": "Dialyn",
-      "image": "./launcher-mods/[NSFW!] Dialyn Bottom Heavy/preview.jpg",
+      "image": "https://raw.githubusercontent.com/preservingzzzmods/pzml-mods-data/main/launcher-mods/%5BNSFW!%5D%20Dialyn%20Bottom%20Heavy/preview.jpg",
       "url": "https://gamebanana.com/mods/638635",
       "nsfw": true,
       "hasUrl": true,
@@ -18550,10 +18550,10 @@
       "linkScanSkipped": false
     },
     {
-      "id": "mod-1769265119298-1518",
+      "id": "mod-1769302222271-1518",
       "name": "Dialyn Pure Light Devout Prayer",
       "character": "Dialyn",
-      "image": "./launcher-mods/[NSFW!] Dialyn Pure Light Devout Prayer/preview.jpg",
+      "image": "https://raw.githubusercontent.com/preservingzzzmods/pzml-mods-data/main/launcher-mods/%5BNSFW!%5D%20Dialyn%20Pure%20Light%20Devout%20Prayer/preview.jpg",
       "url": "https://gamebanana.com/mods/639375",
       "nsfw": true,
       "hasUrl": true,
@@ -18601,10 +18601,10 @@
       "fileType": "zip"
     },
     {
-      "id": "mod-1769265119305-1522",
+      "id": "mod-1769302222383-1522",
       "name": "Dialyn White Dress",
       "character": "Dialyn",
-      "image": "./launcher-mods/[NSFW!] Dialyn White Dress/preview.jpg",
+      "image": "https://raw.githubusercontent.com/preservingzzzmods/pzml-mods-data/main/launcher-mods/%5BNSFW!%5D%20Dialyn%20White%20Dress/preview.jpg",
       "url": "https://gamebanana.com/mods/640537",
       "nsfw": true,
       "hasUrl": true,
@@ -18614,10 +18614,10 @@
       "linkScanSkipped": true
     },
     {
-      "id": "mod-1769265119307-1523",
+      "id": "mod-1769302222426-1523",
       "name": "Ellen Bottom Heavy",
       "character": "Ellen",
-      "image": "./launcher-mods/[NSFW!] Ellen Bottom Heavy/preview.jpg",
+      "image": "https://raw.githubusercontent.com/preservingzzzmods/pzml-mods-data/main/launcher-mods/%5BNSFW!%5D%20Ellen%20Bottom%20Heavy/preview.jpg",
       "url": "https://gamebanana.com/mods/532157",
       "nsfw": true,
       "hasUrl": true,
@@ -18664,10 +18664,10 @@
       "fileType": "zip"
     },
     {
-      "id": "mod-1769265119315-1527",
+      "id": "mod-1769302222514-1527",
       "name": "Ellen Icy Shark",
       "character": "Ellen",
-      "image": "./launcher-mods/[NSFW!] Ellen Icy Shark/preview.jpg",
+      "image": "https://raw.githubusercontent.com/preservingzzzmods/pzml-mods-data/main/launcher-mods/%5BNSFW!%5D%20Ellen%20Icy%20Shark/preview.jpg",
       "url": "https://gamebanana.com/mods/574694",
       "nsfw": true,
       "hasUrl": true,
@@ -18677,10 +18677,10 @@
       "linkScanSkipped": true
     },
     {
-      "id": "mod-1769265119317-1528",
+      "id": "mod-1769302222530-1528",
       "name": "Ellen Icy Shark Normal Eyes",
       "character": "Ellen",
-      "image": "./launcher-mods/[NSFW!] Ellen Icy Shark Normal Eyes/preview.jpg",
+      "image": "https://raw.githubusercontent.com/preservingzzzmods/pzml-mods-data/main/launcher-mods/%5BNSFW!%5D%20Ellen%20Icy%20Shark%20Normal%20Eyes/preview.jpg",
       "url": "https://gamebanana.com/mods/574694",
       "nsfw": true,
       "hasUrl": true,
@@ -19032,10 +19032,10 @@
       "fileType": "zip"
     },
     {
-      "id": "mod-1769265119376-1557",
+      "id": "mod-1769302223314-1557",
       "name": "Grace Bikini",
       "character": "Grace",
-      "image": "./launcher-mods/[NSFW!] Grace Bikini/preview.jpg",
+      "image": "https://raw.githubusercontent.com/preservingzzzmods/pzml-mods-data/main/launcher-mods/%5BNSFW!%5D%20Grace%20Bikini/preview.jpg",
       "url": "https://gamebanana.com/mods/526660",
       "nsfw": true,
       "hasUrl": true,
@@ -19069,10 +19069,10 @@
       "fileType": "zip"
     },
     {
-      "id": "mod-1769265119382-1560",
+      "id": "mod-1769302223359-1560",
       "name": "Grace New Eridu Dailies",
       "character": "Grace",
-      "image": "./launcher-mods/[NSFW!] Grace New Eridu Dailies/preview.jpg",
+      "image": "https://raw.githubusercontent.com/preservingzzzmods/pzml-mods-data/main/launcher-mods/%5BNSFW!%5D%20Grace%20New%20Eridu%20Dailies/preview.jpg",
       "url": "#",
       "nsfw": true,
       "hasUrl": false,
@@ -19131,10 +19131,10 @@
       "fileType": "zip"
     },
     {
-      "id": "mod-1769265119391-1565",
+      "id": "mod-1769302223540-1565",
       "name": "Jane Bunny Girl",
       "character": "Jane Doe",
-      "image": "./launcher-mods/[NSFW!] Jane Bunny Girl/preview.jpg",
+      "image": "https://raw.githubusercontent.com/preservingzzzmods/pzml-mods-data/main/launcher-mods/%5BNSFW!%5D%20Jane%20Bunny%20Girl/preview.jpg",
       "url": "https://gamebanana.com/mods/558750",
       "nsfw": true,
       "hasUrl": true,
@@ -19144,10 +19144,10 @@
       "linkScanSkipped": true
     },
     {
-      "id": "mod-1769265119393-1566",
+      "id": "mod-1769302223559-1566",
       "name": "Jane Bunny Suit",
       "character": "Jane Doe",
-      "image": "./launcher-mods/[NSFW!] Jane Bunny Suit/preview.png",
+      "image": "https://raw.githubusercontent.com/preservingzzzmods/pzml-mods-data/main/launcher-mods/%5BNSFW!%5D%20Jane%20Bunny%20Suit/preview.png",
       "url": "#",
       "nsfw": true,
       "hasUrl": false,
@@ -19428,10 +19428,10 @@
       "fileType": "zip"
     },
     {
-      "id": "mod-1769265119438-1589",
+      "id": "mod-1769302224169-1589",
       "name": "Jane Santa Rat",
       "character": "Jane Doe",
-      "image": "./launcher-mods/[NSFW!] Jane Santa Rat/preview.jpg",
+      "image": "https://raw.githubusercontent.com/preservingzzzmods/pzml-mods-data/main/launcher-mods/%5BNSFW!%5D%20Jane%20Santa%20Rat/preview.jpg",
       "url": "https://gamebanana.com/mods/638298",
       "nsfw": true,
       "hasUrl": true,
@@ -19441,10 +19441,10 @@
       "linkScanSkipped": true
     },
     {
-      "id": "mod-1769265119440-1590",
+      "id": "mod-1769302224183-1590",
       "name": "Jane Undercover R&B",
       "character": "Jane Doe",
-      "image": "./launcher-mods/[NSFW!] Jane Undercover R&B/preview.jpg",
+      "image": "https://raw.githubusercontent.com/preservingzzzmods/pzml-mods-data/main/launcher-mods/%5BNSFW!%5D%20Jane%20Undercover%20R%26B/preview.jpg",
       "url": "https://gamebanana.com/mods/602106",
       "nsfw": true,
       "hasUrl": true,
@@ -19502,10 +19502,10 @@
       "fileType": "zip"
     },
     {
-      "id": "mod-1769265119450-1595",
+      "id": "mod-1769302224277-1595",
       "name": "Ju Fufu Michele",
       "character": "Ju Fufu",
-      "image": "./launcher-mods/[NSFW!] Ju Fufu Michele/preview.jpg",
+      "image": "https://raw.githubusercontent.com/preservingzzzmods/pzml-mods-data/main/launcher-mods/%5BNSFW!%5D%20Ju%20Fufu%20Michele/preview.jpg",
       "url": "https://gamebanana.com/mods/602920",
       "nsfw": true,
       "hasUrl": true,
@@ -19589,10 +19589,10 @@
       "linkScanSkipped": false
     },
     {
-      "id": "mod-1769265119462-1602",
+      "id": "mod-1769302224524-1602",
       "name": "Lucia Bottom Heavy Clothing Break",
       "character": "Lucia",
-      "image": "./launcher-mods/[NSFW!] Lucia Bottom Heavy Clothing Break/preview.jpg",
+      "image": "https://raw.githubusercontent.com/preservingzzzmods/pzml-mods-data/main/launcher-mods/%5BNSFW!%5D%20Lucia%20Bottom%20Heavy%20Clothing%20Break/preview.jpg",
       "url": "https://gamebanana.com/mods/646955",
       "nsfw": true,
       "hasUrl": true,
@@ -19602,10 +19602,10 @@
       "linkScanSkipped": true
     },
     {
-      "id": "mod-1769265119463-1603",
+      "id": "mod-1769302224526-1603",
       "name": "Lucia Gale Ryuu",
       "character": "Lucia",
-      "image": "./launcher-mods/[NSFW!] Lucia Gale Ryuu/preview.jpg",
+      "image": "https://raw.githubusercontent.com/preservingzzzmods/pzml-mods-data/main/launcher-mods/%5BNSFW!%5D%20Lucia%20Gale%20Ryuu/preview.jpg",
       "url": "https://gamebanana.com/mods/638937",
       "nsfw": true,
       "hasUrl": true,
@@ -19628,10 +19628,10 @@
       "linkScanSkipped": false
     },
     {
-      "id": "mod-1769265119467-1605",
+      "id": "mod-1769302224563-1605",
       "name": "Lucia Kiana Lime Soda",
       "character": "Lucia",
-      "image": "./launcher-mods/[NSFW!] Lucia Kiana Lime Soda/preview.jpg",
+      "image": "https://raw.githubusercontent.com/preservingzzzmods/pzml-mods-data/main/launcher-mods/%5BNSFW!%5D%20Lucia%20Kiana%20Lime%20Soda/preview.jpg",
       "url": "https://gamebanana.com/mods/630878",
       "nsfw": true,
       "hasUrl": true,
@@ -19665,10 +19665,10 @@
       "fileType": "zip"
     },
     {
-      "id": "mod-1769265119474-1608",
+      "id": "mod-1769302224656-1608",
       "name": "Lucia Mix",
       "character": "Lucia",
-      "image": "./launcher-mods/[NSFW!] Lucia Mix/preview.jpg",
+      "image": "https://raw.githubusercontent.com/preservingzzzmods/pzml-mods-data/main/launcher-mods/%5BNSFW!%5D%20Lucia%20Mix/preview.jpg",
       "url": "https://gamebanana.com/mods/635274",
       "nsfw": true,
       "hasUrl": true,
@@ -19824,10 +19824,10 @@
       "fileType": "zip"
     },
     {
-      "id": "mod-1769265119500-1621",
+      "id": "mod-1769302225024-1621",
       "name": "Miyabi Bottom Heavy 1",
       "character": "Miyabi",
-      "image": "./launcher-mods/[NSFW!] Miyabi Bottom Heavy 1/preview.jpg",
+      "image": "https://raw.githubusercontent.com/preservingzzzmods/pzml-mods-data/main/launcher-mods/%5BNSFW!%5D%20Miyabi%20Bottom%20Heavy%201/preview.jpg",
       "url": "https://gamebanana.com/mods/602061",
       "nsfw": true,
       "hasUrl": true,
@@ -19837,10 +19837,10 @@
       "linkScanSkipped": true
     },
     {
-      "id": "mod-1769265119502-1622",
+      "id": "mod-1769302225065-1622",
       "name": "Miyabi Bottom Heavy 2",
       "character": "Miyabi",
-      "image": "./launcher-mods/[NSFW!] Miyabi Bottom Heavy 2/preview.jpg",
+      "image": "https://raw.githubusercontent.com/preservingzzzmods/pzml-mods-data/main/launcher-mods/%5BNSFW!%5D%20Miyabi%20Bottom%20Heavy%202/preview.jpg",
       "url": "https://gamebanana.com/mods/565019",
       "nsfw": true,
       "hasUrl": true,
@@ -19898,10 +19898,10 @@
       "fileType": "zip"
     },
     {
-      "id": "mod-1769265119513-1627",
+      "id": "mod-1769302225179-1627",
       "name": "Miyabi Cyber Outfit",
       "character": "Miyabi",
-      "image": "./launcher-mods/[NSFW!] Miyabi Cyber Outfit/preview.jpg",
+      "image": "https://raw.githubusercontent.com/preservingzzzmods/pzml-mods-data/main/launcher-mods/%5BNSFW!%5D%20Miyabi%20Cyber%20Outfit/preview.jpg",
       "url": "https://gamebanana.com/mods/595511",
       "nsfw": true,
       "hasUrl": true,
@@ -19935,10 +19935,10 @@
       "fileType": "zip"
     },
     {
-      "id": "mod-1769265119519-1630",
+      "id": "mod-1769302225242-1630",
       "name": "Miyabi Elegant Gown",
       "character": "Miyabi",
-      "image": "./launcher-mods/[NSFW!] Miyabi Elegant Gown/preview.jpg",
+      "image": "https://raw.githubusercontent.com/preservingzzzmods/pzml-mods-data/main/launcher-mods/%5BNSFW!%5D%20Miyabi%20Elegant%20Gown/preview.jpg",
       "url": "https://gamebanana.com/mods/619072",
       "nsfw": true,
       "hasUrl": true,
@@ -20009,10 +20009,10 @@
       "fileType": ""
     },
     {
-      "id": "mod-1769265119532-1636",
+      "id": "mod-1769302225452-1636",
       "name": "Miyabi Mix",
       "character": "Miyabi",
-      "image": "./launcher-mods/[NSFW!] Miyabi Mix/preview.jpg",
+      "image": "https://raw.githubusercontent.com/preservingzzzmods/pzml-mods-data/main/launcher-mods/%5BNSFW!%5D%20Miyabi%20Mix/preview.jpg",
       "url": "https://gamebanana.com/mods/573540",
       "nsfw": true,
       "hasUrl": true,
@@ -20071,10 +20071,10 @@
       "fileType": "zip"
     },
     {
-      "id": "mod-1769265119541-1641",
+      "id": "mod-1769302225614-1641",
       "name": "Miyabi Volatile Priestess",
       "character": "Miyabi",
-      "image": "./launcher-mods/[NSFW!] Miyabi Volatile Priestess/preview.jpg",
+      "image": "https://raw.githubusercontent.com/preservingzzzmods/pzml-mods-data/main/launcher-mods/%5BNSFW!%5D%20Miyabi%20Volatile%20Priestess/preview.jpg",
       "url": "https://gamebanana.com/mods/629827",
       "nsfw": true,
       "hasUrl": true,
@@ -20182,10 +20182,10 @@
       "linkScanSkipped": false
     },
     {
-      "id": "mod-1769265119560-1650",
+      "id": "mod-1769302225900-1650",
       "name": "Orphie Bottom Heavy",
       "character": "Orphie & Magus",
-      "image": "./launcher-mods/[NSFW!] Orphie Bottom Heavy/preview.jpg",
+      "image": "https://raw.githubusercontent.com/preservingzzzmods/pzml-mods-data/main/launcher-mods/%5BNSFW!%5D%20Orphie%20Bottom%20Heavy/preview.jpg",
       "url": "https://gamebanana.com/mods/624517",
       "nsfw": true,
       "hasUrl": true,
@@ -20195,10 +20195,10 @@
       "linkScanSkipped": true
     },
     {
-      "id": "mod-1769265119563-1651",
+      "id": "mod-1769302225921-1651",
       "name": "Orphie Delta",
       "character": "Orphie & Magus",
-      "image": "./launcher-mods/[NSFW!] Orphie Delta/preview.jpg",
+      "image": "https://raw.githubusercontent.com/preservingzzzmods/pzml-mods-data/main/launcher-mods/%5BNSFW!%5D%20Orphie%20Delta/preview.jpg",
       "url": "https://gamebanana.com/mods/630691",
       "nsfw": true,
       "hasUrl": true,
@@ -20647,10 +20647,10 @@
       "fileType": "zip"
     },
     {
-      "id": "mod-1769265119640-1688",
+      "id": "mod-1769302226740-1688",
       "name": "Seed Illya",
       "character": "Seed",
-      "image": "./launcher-mods/[NSFW!] Seed Illya/preview.jpg",
+      "image": "https://raw.githubusercontent.com/preservingzzzmods/pzml-mods-data/main/launcher-mods/%5BNSFW!%5D%20Seed%20Illya/preview.jpg",
       "url": "https://gamebanana.com/mods/633503",
       "nsfw": true,
       "hasUrl": true,
@@ -20709,10 +20709,10 @@
       "linkScanSkipped": false
     },
     {
-      "id": "mod-1769265119649-1693",
+      "id": "mod-1769302226850-1693",
       "name": "Seed Special Halloween",
       "character": "Seed",
-      "image": "./launcher-mods/[NSFW!] Seed Special Halloween/preview.jpg",
+      "image": "https://raw.githubusercontent.com/preservingzzzmods/pzml-mods-data/main/launcher-mods/%5BNSFW!%5D%20Seed%20Special%20Halloween/preview.jpg",
       "url": "https://gamebanana.com/mods/634417",
       "nsfw": true,
       "hasUrl": true,
@@ -20722,10 +20722,10 @@
       "linkScanSkipped": true
     },
     {
-      "id": "mod-1769265119650-1694",
+      "id": "mod-1769302226880-1694",
       "name": "Seed Splash Sketch",
       "character": "Seed",
-      "image": "./launcher-mods/[NSFW!] Seed Splash Sketch/preview.jpg",
+      "image": "https://raw.githubusercontent.com/preservingzzzmods/pzml-mods-data/main/launcher-mods/%5BNSFW!%5D%20Seed%20Splash%20Sketch/preview.jpg",
       "url": "https://gamebanana.com/mods/619613",
       "nsfw": true,
       "hasUrl": true,
@@ -20994,10 +20994,10 @@
       "fileType": "zip"
     },
     {
-      "id": "mod-1769265119690-1716",
+      "id": "mod-1769302227410-1716",
       "name": "Trigger Bottom Heavy Pink",
       "character": "Trigger",
-      "image": "./launcher-mods/[NSFW!] Trigger Bottom Heavy Pink/preview.jpg",
+      "image": "https://raw.githubusercontent.com/preservingzzzmods/pzml-mods-data/main/launcher-mods/%5BNSFW!%5D%20Trigger%20Bottom%20Heavy%20Pink/preview.jpg",
       "url": "https://gamebanana.com/mods/591453",
       "nsfw": true,
       "hasUrl": true,
@@ -21019,10 +21019,10 @@
       "fileType": "zip"
     },
     {
-      "id": "mod-1769265119694-1718",
+      "id": "mod-1769302227468-1718",
       "name": "Trigger Camo",
       "character": "Trigger",
-      "image": "./launcher-mods/[NSFW!] Trigger Camo/preview.jpg",
+      "image": "https://raw.githubusercontent.com/preservingzzzmods/pzml-mods-data/main/launcher-mods/%5BNSFW!%5D%20Trigger%20Camo/preview.jpg",
       "url": "https://gamebanana.com/mods/620648",
       "nsfw": true,
       "hasUrl": true,
@@ -21154,10 +21154,10 @@
       "fileType": "zip"
     },
     {
-      "id": "mod-1769265119716-1729",
+      "id": "mod-1769302227698-1729",
       "name": "Vivian Bottom Heavy",
       "character": "Vivian",
-      "image": "./launcher-mods/[NSFW!] Vivian Bottom Heavy/preview.jpg",
+      "image": "https://raw.githubusercontent.com/preservingzzzmods/pzml-mods-data/main/launcher-mods/%5BNSFW!%5D%20Vivian%20Bottom%20Heavy/preview.jpg",
       "url": "https://gamebanana.com/mods/592033",
       "nsfw": true,
       "hasUrl": true,
@@ -21167,10 +21167,10 @@
       "linkScanSkipped": true
     },
     {
-      "id": "mod-1769265119718-1730",
+      "id": "mod-1769302227735-1730",
       "name": "Vivian Bottom Heavy Summer Skin",
       "character": "Vivian",
-      "image": "./launcher-mods/[NSFW!] Vivian Bottom Heavy Summer Skin/preview.jpg",
+      "image": "https://raw.githubusercontent.com/preservingzzzmods/pzml-mods-data/main/launcher-mods/%5BNSFW!%5D%20Vivian%20Bottom%20Heavy%20Summer%20Skin/preview.jpg",
       "url": "https://gamebanana.com/mods/592033",
       "nsfw": true,
       "hasUrl": true,
@@ -21254,10 +21254,10 @@
       "linkScanSkipped": false
     },
     {
-      "id": "mod-1769265119732-1737",
+      "id": "mod-1769302227912-1737",
       "name": "Vivian Succubus Princess",
       "character": "Vivian",
-      "image": "./launcher-mods/[NSFW!] Vivian Succubus Princess/preview.jpg",
+      "image": "https://raw.githubusercontent.com/preservingzzzmods/pzml-mods-data/main/launcher-mods/%5BNSFW!%5D%20Vivian%20Succubus%20Princess/preview.jpg",
       "url": "https://gamebanana.com/mods/630328",
       "nsfw": true,
       "hasUrl": true,
@@ -21291,10 +21291,10 @@
       "fileType": "zip"
     },
     {
-      "id": "mod-1769265119738-1740",
+      "id": "mod-1769302227966-1740",
       "name": "Vivian Victorian Style",
       "character": "Vivian",
-      "image": "./launcher-mods/[NSFW!] Vivian Victorian Style/preview.jpg",
+      "image": "https://raw.githubusercontent.com/preservingzzzmods/pzml-mods-data/main/launcher-mods/%5BNSFW!%5D%20Vivian%20Victorian%20Style/preview.jpg",
       "url": "https://gamebanana.com/mods/621337",
       "nsfw": true,
       "hasUrl": true,
@@ -21316,10 +21316,10 @@
       "fileType": "zip"
     },
     {
-      "id": "mod-1769265119743-1742",
+      "id": "mod-1769302228026-1742",
       "name": "Yanagi Black Silky Cat Girl",
       "character": "Yanagi",
-      "image": "./launcher-mods/[NSFW!] Yanagi Black Silky Cat Girl/preview.jpg",
+      "image": "https://raw.githubusercontent.com/preservingzzzmods/pzml-mods-data/main/launcher-mods/%5BNSFW!%5D%20Yanagi%20Black%20Silky%20Cat%20Girl/preview.jpg",
       "url": "https://gamebanana.com/mods/554360",
       "nsfw": true,
       "hasUrl": true,
@@ -21365,10 +21365,10 @@
       "fileType": "zip"
     },
     {
-      "id": "mod-1769265119753-1746",
+      "id": "mod-1769302228105-1746",
       "name": "Yanagi Ghostly Awakening",
       "character": "Yanagi",
-      "image": "./launcher-mods/[NSFW!] Yanagi Ghostly Awakening/preview.jpg",
+      "image": "https://raw.githubusercontent.com/preservingzzzmods/pzml-mods-data/main/launcher-mods/%5BNSFW!%5D%20Yanagi%20Ghostly%20Awakening/preview.jpg",
       "url": "https://gamebanana.com/mods/555229",
       "nsfw": true,
       "hasUrl": true,
@@ -22167,10 +22167,10 @@
       "fileType": "zip"
     },
     {
-      "id": "mod-1769265119867-1810",
+      "id": "mod-1769302229965-1810",
       "name": "Yidhari Stardepth Overture",
       "character": "Yidhari",
-      "image": "./launcher-mods/[NSFW!] Yidhari Stardepth Overture/preview.jpg",
+      "image": "https://raw.githubusercontent.com/preservingzzzmods/pzml-mods-data/main/launcher-mods/%5BNSFW!%5D%20Yidhari%20Stardepth%20Overture/preview.jpg",
       "url": "https://gamebanana.com/mods/632187",
       "nsfw": true,
       "hasUrl": true,
@@ -22277,10 +22277,10 @@
       "fileType": "zip"
     },
     {
-      "id": "mod-1769265119885-1819",
+      "id": "mod-1769302230189-1819",
       "name": "Yixuan Kunoichi",
       "character": "Yixuan",
-      "image": "./launcher-mods/[NSFW!] Yixuan Kunoichi/preview.jpg",
+      "image": "https://raw.githubusercontent.com/preservingzzzmods/pzml-mods-data/main/launcher-mods/%5BNSFW!%5D%20Yixuan%20Kunoichi/preview.jpg",
       "url": "https://gamebanana.com/mods/631415",
       "nsfw": true,
       "hasUrl": true,
@@ -22351,10 +22351,10 @@
       "fileType": "zip"
     },
     {
-      "id": "mod-1769265119897-1825",
+      "id": "mod-1769302230356-1825",
       "name": "Yuzuha Bottom Heavy",
       "character": "Yuzuha",
-      "image": "./launcher-mods/[NSFW!] Yuzuha Bottom Heavy/preview.jpg",
+      "image": "https://raw.githubusercontent.com/preservingzzzmods/pzml-mods-data/main/launcher-mods/%5BNSFW!%5D%20Yuzuha%20Bottom%20Heavy/preview.jpg",
       "url": "https://gamebanana.com/mods/612815",
       "nsfw": true,
       "hasUrl": true,
@@ -22364,10 +22364,10 @@
       "linkScanSkipped": true
     },
     {
-      "id": "mod-1769265119900-1826",
+      "id": "mod-1769302230407-1826",
       "name": "Yuzuha Daylight Skin Bottom Heavy",
       "character": "Yuzuha",
-      "image": "./launcher-mods/[NSFW!] Yuzuha Daylight Skin Bottom Heavy/preview.jpg",
+      "image": "https://raw.githubusercontent.com/preservingzzzmods/pzml-mods-data/main/launcher-mods/%5BNSFW!%5D%20Yuzuha%20Daylight%20Skin%20Bottom%20Heavy/preview.jpg",
       "url": "https://gamebanana.com/mods/612815",
       "nsfw": true,
       "hasUrl": true,
@@ -22402,10 +22402,10 @@
       "linkScanSkipped": false
     },
     {
-      "id": "mod-1769265119906-1829",
+      "id": "mod-1769302230487-1829",
       "name": "Yuzuha Mix",
       "character": "Yuzuha",
-      "image": "./launcher-mods/[NSFW!] Yuzuha Mix/preview.jpg",
+      "image": "https://raw.githubusercontent.com/preservingzzzmods/pzml-mods-data/main/launcher-mods/%5BNSFW!%5D%20Yuzuha%20Mix/preview.jpg",
       "url": "https://gamebanana.com/mods/619696",
       "nsfw": true,
       "hasUrl": true,
@@ -22415,10 +22415,10 @@
       "linkScanSkipped": true
     },
     {
-      "id": "mod-1769265119907-1830",
+      "id": "mod-1769302230510-1830",
       "name": "Yuzuha Sinister Sister",
       "character": "Yuzuha",
-      "image": "./launcher-mods/[NSFW!] Yuzuha Sinister Sister/preview.jpg",
+      "image": "https://raw.githubusercontent.com/preservingzzzmods/pzml-mods-data/main/launcher-mods/%5BNSFW!%5D%20Yuzuha%20Sinister%20Sister/preview.jpg",
       "url": "https://gamebanana.com/mods/631498",
       "nsfw": true,
       "hasUrl": true,
@@ -22466,10 +22466,10 @@
       "linkScanSkipped": false
     },
     {
-      "id": "mod-1769265119915-1834",
+      "id": "mod-1769302230603-1834",
       "name": "Zhu Yuan BH Textures",
       "character": "Zhu Yuan",
-      "image": "./launcher-mods/[NSFW!] Zhu Yuan BH Textures/preview.jpg",
+      "image": "https://raw.githubusercontent.com/preservingzzzmods/pzml-mods-data/main/launcher-mods/%5BNSFW!%5D%20Zhu%20Yuan%20BH%20Textures/preview.jpg",
       "url": "https://gamebanana.com/mods/569655",
       "nsfw": true,
       "hasUrl": true,
@@ -22479,10 +22479,10 @@
       "linkScanSkipped": true
     },
     {
-      "id": "mod-1769265119917-1835",
+      "id": "mod-1769302230616-1835",
       "name": "Zhu Yuan BH Textures Less Saturated",
       "character": "Zhu Yuan",
-      "image": "./launcher-mods/[NSFW!] Zhu Yuan BH Textures Less Saturated/preview.jpg",
+      "image": "https://raw.githubusercontent.com/preservingzzzmods/pzml-mods-data/main/launcher-mods/%5BNSFW!%5D%20Zhu%20Yuan%20BH%20Textures%20Less%20Saturated/preview.jpg",
       "url": "https://gamebanana.com/mods/569655",
       "nsfw": true,
       "hasUrl": true,
@@ -22613,10 +22613,10 @@
       "fileType": "zip"
     },
     {
-      "id": "mod-1769265119947-1846",
+      "id": "mod-1769302231092-1846",
       "name": "Zhu Yuan Thick",
       "character": "Zhu Yuan",
-      "image": "./launcher-mods/[NSFW!] Zhu Yuan Thick/preview.jpg",
+      "image": "https://raw.githubusercontent.com/preservingzzzmods/pzml-mods-data/main/launcher-mods/%5BNSFW!%5D%20Zhu%20Yuan%20Thick/preview.jpg",
       "url": "https://gamebanana.com/mods/639268",
       "nsfw": true,
       "hasUrl": true,
