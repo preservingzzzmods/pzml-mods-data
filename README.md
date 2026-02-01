@@ -1,8 +1,8 @@
 # PZML Mods Data
 
-## Version: v2026.01.25.1023
-## Generated: 25/01/2026, 10:23:52
-## Total Mods: 1847
+## Version: v2026.02.01.1103
+## Generated: 01/02/2026, 11:03:18
+## Total Mods: 3300
 
 This repository contains the mods data and images for the PZML (Preserving ZZZ Mods Launcher).
 
@@ -14,8 +14,8 @@ The launcher automatically checks this repository for updates every 24 hours. Us
 - `launcher-mods/`: Folder containing preview images for each mod
 
 ### Statistics
-- Total mods: 1847
-- Last updated: 25/01/2026, 11:12:46
+- Total mods: 3300
+- Last updated: 01/02/2026, 11:36:08
 
 ### For Developers
 To update the mods data, run the mod-scanner.js script with your local mods folder.
